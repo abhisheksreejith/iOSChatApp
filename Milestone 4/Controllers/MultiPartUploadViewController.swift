@@ -7,7 +7,7 @@
 import UIKit
 class MultiPartUploadViewController: UIViewController {
     @IBOutlet weak var imageView: UIImageView!
-    let apikey = "5FP4M2J.2N3AGXZ-YMSMF7C-MSAXW6C-BTWB4A1"
+    let apikey = "API key"
     override func viewDidLoad() {
         super.viewDidLoad()
     }
