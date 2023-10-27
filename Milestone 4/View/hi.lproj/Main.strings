@@ -1,0 +1,270 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1AD-jJ-G3Q"; */
+"1AD-jJ-G3Q.text" = "लेबल";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "29e-ey-l3c"; */
+"29e-ey-l3c.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "29e-ey-l3c"; */
+"29e-ey-l3c.normalTitle" = " ";
+
+/* Class = "UIButton"; configuration.title = "Cancel"; ObjectID = "4Qb-0u-Alu"; */
+"4Qb-0u-Alu.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4Qb-0u-Alu"; */
+"4Qb-0u-Alu.normalTitle" = " ";
+
+/* Class = "UITabBarItem"; title = "Chats"; ObjectID = "62g-8o-0TF"; */
+"62g-8o-0TF.title" = "चैट";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "6SH-be-VWx"; */
+"6SH-be-VWx.title" = "समायोजन";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "76H-gp-eGv"; */
+"76H-gp-eGv.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "76H-gp-eGv"; */
+"76H-gp-eGv.normalTitle" = " ";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "82G-wU-ylU"; */
+"82G-wU-ylU.title" = "प्रोफ़ाइल";
+
+/* Class = "UILabel"; text = "Enable Biometerics"; ObjectID = "8Ci-zh-9iM"; */
+"8Ci-zh-9iM.text" = "बायोमेट्रिक्स सक्षम करें";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "8Rn-oi-tXK"; */
+"8Rn-oi-tXK.text" = "बता दें कि दर्द बहुत दर्दनाक होगा, और इसके बाद मवेशियों की पलकें झड़ जाएंगी, लेकिन साथ ही यह बहुत अधिक प्रसव पीड़ा और दर्द के साथ होता है। सबसे छोटी बात पर आने के लिए, किसी को भी किसी भी प्रकार का कार्य तब तक नहीं करना चाहिए जब तक कि उसे उससे कुछ लाभ न हो। डांट में दर्द से नाराज मत हो खुशी में वह दर्द से बाल बनना चाहता है इस उम्मीद में कि प्रजनन न हो। जब तक वे वासना से अन्धे नहीं हो जाते, तब तक आगे नहीं बढ़ते; दोषी वे हैं जो अपने कर्तव्यों को त्याग देते हैं और अपने हृदयों को, अर्थात् अपने परिश्रम को नरम कर लेते हैं। क्योंकि यह पुस्तक आपको कानूनों और घृणित नागरिकों का निर्माता बनने के लिए कर्तव्यनिष्ठ बनाती है।";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "95e-uB-DCT"; */
+"95e-uB-DCT.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "95e-uB-DCT"; */
+"95e-uB-DCT.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = "Send OTP"; ObjectID = "B7S-OM-n6F"; */
+"B7S-OM-n6F.normalTitle" = "OTP भेजें";
+
+/* Class = "UILabel"; text = "Terms and Conditions"; ObjectID = "CQQ-nF-D2v"; */
+"CQQ-nF-D2v.text" = "नियम और शर्तें";
+
+/* Class = "UILabel"; text = "Languages"; ObjectID = "FNA-kr-b7L"; */
+"FNA-kr-b7L.text" = "भाषा";
+
+/* Class = "UILabel"; text = "Multipart Upload"; ObjectID = "FYo-kT-Sv7"; */
+"FYo-kT-Sv7.text" = "मल्टीपार्ट अपलोड";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "GZB-FK-YEC"; */
+"GZB-FK-YEC.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GZB-FK-YEC"; */
+"GZB-FK-YEC.normalTitle" = " ";
+
+/* Class = "UIButton"; configuration.subtitle = "    "; ObjectID = "HuH-nU-e35"; */
+"HuH-nU-e35.configuration.subtitle" = "    ";
+
+/* Class = "UIButton"; configuration.title = "     "; ObjectID = "HuH-nU-e35"; */
+"HuH-nU-e35.configuration.title" = "     ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HuH-nU-e35"; */
+"HuH-nU-e35.normalTitle" = " ";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "Ix0-9I-ICW"; */
+"Ix0-9I-ICW.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ix0-9I-ICW"; */
+"Ix0-9I-ICW.normalTitle" = " ";
+
+/* Class = "UISearchBar"; placeholder = "Start new Chat"; ObjectID = "JJO-mH-oy9"; */
+"JJO-mH-oy9.placeholder" = "नई चैट प्रारंभ करें";
+
+/* Class = "UISearchBar"; JJO-mH-oy9.scopeButtonTitles[0] = "Title"; ObjectID = "JJO-mH-oy9"; */
+"JJO-mH-oy9.scopeButtonTitles[0]" = "शीर्षक";
+
+/* Class = "UISearchBar"; JJO-mH-oy9.scopeButtonTitles[1] = "Title"; ObjectID = "JJO-mH-oy9"; */
+"JJO-mH-oy9.scopeButtonTitles[1]" = "शीर्षक";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "Kaa-9k-Pj5"; */
+"Kaa-9k-Pj5.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Kaa-9k-Pj5"; */
+"Kaa-9k-Pj5.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "-----------------------or-----------------------"; ObjectID = "LP5-lR-UNK"; */
+"LP5-lR-UNK.text" = "-----------------------या-----------------------";
+
+/* Class = "UIButton"; configuration.title = "  "; ObjectID = "M3Y-OI-S5v"; */
+"M3Y-OI-S5v.configuration.title" = "  ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "M3Y-OI-S5v"; */
+"M3Y-OI-S5v.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "MZR-XT-ftB"; */
+"MZR-XT-ftB.text" = "लॉग इन करें";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "MgE-I5-i1S"; */
+"MgE-I5-i1S.text" = "ईमेल";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Mki-fj-N8b"; */
+"Mki-fj-N8b.text" = "लेबल";
+
+/* Class = "UIButton"; configuration.title = "Select image"; ObjectID = "NVh-e0-coA"; */
+"NVh-e0-coA.configuration.title" = "छवि चुने";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NVh-e0-coA"; */
+"NVh-e0-coA.normalTitle" = "छवि चुने";
+
+/* Class = "UISearchBar"; placeholder = "Start new Chat"; ObjectID = "NtT-tx-dv9"; */
+"NtT-tx-dv9.placeholder" = "नई चैट प्रारंभ करें";
+
+/* Class = "UISearchBar"; NtT-tx-dv9.scopeButtonTitles[0] = "Title"; ObjectID = "NtT-tx-dv9"; */
+"NtT-tx-dv9.scopeButtonTitles[0]" = "शीर्षक";
+
+/* Class = "UISearchBar"; NtT-tx-dv9.scopeButtonTitles[1] = "Title"; ObjectID = "NtT-tx-dv9"; */
+"NtT-tx-dv9.scopeButtonTitles[1]" = "शीर्षक";
+
+/* Class = "UILabel"; text = "Signin with"; ObjectID = "Nzf-cp-kAd"; */
+"Nzf-cp-kAd.text" = "के साथ साइन इन करें";
+
+/* Class = "UILabel"; text = "Invalid OTP. Try Again :("; ObjectID = "PJg-h3-ovG"; */
+"PJg-h3-ovG.text" = "अमान्य ओटीपी. पुनः प्रयास करें :(";
+
+/* Class = "UIButton"; configuration.title = "Edit Profile"; ObjectID = "Pzi-5b-SYZ"; */
+"Pzi-5b-SYZ.configuration.title" = "प्रोफ़ाइल संपादित करें";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Pzi-5b-SYZ"; */
+"Pzi-5b-SYZ.normalTitle" = "प्रोफ़ाइल संपादित करें";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "R3M-Fy-t1A"; */
+"R3M-Fy-t1A.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "R3M-Fy-t1A"; */
+"R3M-Fy-t1A.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "TIb-dZ-8uP"; */
+"TIb-dZ-8uP.text" = "लॉग आउट";
+
+/* Class = "UIButton"; configuration.subtitle = "    "; ObjectID = "Thh-93-Lrh"; */
+"Thh-93-Lrh.configuration.subtitle" = "    ";
+
+/* Class = "UIButton"; configuration.title = "     "; ObjectID = "Thh-93-Lrh"; */
+"Thh-93-Lrh.configuration.title" = "     ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Thh-93-Lrh"; */
+"Thh-93-Lrh.normalTitle" = " ";
+
+/* Class = "UITabBarItem"; title = "Updates"; ObjectID = "Ti4-vY-DMi"; */
+"Ti4-vY-DMi.title" = "अपडेट";
+
+/* Class = "UIButton"; configuration.title = "Upload Image"; ObjectID = "Ukc-iI-wTF"; */
+"Ukc-iI-wTF.configuration.title" = "तस्विर अपलोड करना";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ukc-iI-wTF"; */
+"Ukc-iI-wTF.normalTitle" = "तस्विर अपलोड करना";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "WUN-w3-SYG"; */
+"WUN-w3-SYG.placeholder" = "ईमेल";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "Xqx-OE-aLZ"; */
+"Xqx-OE-aLZ.title" = "प्रोफ़ाइल";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "YAm-a3-V50"; */
+"YAm-a3-V50.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YAm-a3-V50"; */
+"YAm-a3-V50.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "System Default"; ObjectID = "ZuF-Hy-8zV"; */
+"ZuF-Hy-8zV.text" = "प्रणालीगत चूक";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "a7B-1f-wEN"; */
+"a7B-1f-wEN.title" = "समायोजन";
+
+/* Class = "UILabel"; text = "Light"; ObjectID = "cq5-kh-yMe"; */
+"cq5-kh-yMe.text" = "प्रकाश विषय";
+
+/* Class = "UITabBarItem"; title = "Contacts"; ObjectID = "ddu-MN-bZM"; */
+"ddu-MN-bZM.title" = "संपर्क";
+
+/* Class = "UILabel"; text = "Enter the OTP send to your phone number."; ObjectID = "e6K-9D-agZ"; */
+"e6K-9D-agZ.text" = "अपने फोन नंबर पर भेजा गया ओटीपी दर्ज करें.";
+
+/* Class = "UILabel"; text = "Dark"; ObjectID = "eBF-tk-5fN"; */
+"eBF-tk-5fN.text" = "डार्क थीम";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "eL2-cK-m77"; */
+"eL2-cK-m77.title" = "बचाना";
+
+/* Class = "UILabel"; text = "Enable Biometerics"; ObjectID = "eS1-Jz-P8h"; */
+"eS1-Jz-P8h.text" = "बायोमेट्रिक्स सक्षम करें";
+
+/* Class = "UIButton"; configuration.subtitle = "    "; ObjectID = "eWw-sO-9Ru"; */
+"eWw-sO-9Ru.configuration.subtitle" = "    ";
+
+/* Class = "UIButton"; configuration.title = "     "; ObjectID = "eWw-sO-9Ru"; */
+"eWw-sO-9Ru.configuration.title" = "     ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "eWw-sO-9Ru"; */
+"eWw-sO-9Ru.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "No new updates :("; ObjectID = "fO6-XI-jWt"; */
+"fO6-XI-jWt.text" = "कोई नया अपडेट नहीं :(";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "fb0-Dn-Lbe"; */
+"fb0-Dn-Lbe.placeholder" = "पासवर्ड";
+
+/* Class = "UIButton"; normalTitle = "VERIFY"; ObjectID = "frz-ou-ZIb"; */
+"frz-ou-ZIb.normalTitle" = "सत्यापित करें";
+
+/* Class = "UIButton"; configuration.title = "  "; ObjectID = "gAA-Lt-Pj3"; */
+"gAA-Lt-Pj3.configuration.title" = "  ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gAA-Lt-Pj3"; */
+"gAA-Lt-Pj3.normalTitle" = " ";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "gsf-Jc-wTb"; */
+"gsf-Jc-wTb.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gsf-Jc-wTb"; */
+"gsf-Jc-wTb.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "i2Y-7s-Df5"; */
+"i2Y-7s-Df5.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter the phone here"; ObjectID = "kMV-qC-gO1"; */
+"kMV-qC-gO1.placeholder" = "यहां फ़ोन दर्ज करें";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "klW-cA-AjG"; */
+"klW-cA-AjG.configuration.title" = "लॉग इन करें";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "klW-cA-AjG"; */
+"klW-cA-AjG.normalTitle" = " ";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "kvz-tE-2M0"; */
+"kvz-tE-2M0.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kvz-tE-2M0"; */
+"kvz-tE-2M0.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "Themes"; ObjectID = "npI-0P-VMR"; */
+"npI-0P-VMR.text" = "विषय-वस्तु";
+
+/* Class = "UILabel"; text = "Enter the phone number to recieve the OTP"; ObjectID = "qLt-bp-60I"; */
+"qLt-bp-60I.text" = "ओटीपी प्राप्त करने के लिए फ़ोन नंबर दर्ज करें";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qx4-VE-mrF"; */
+"qx4-VE-mrF.text" = "Label";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "rwU-oD-FMI"; */
+"rwU-oD-FMI.text" = "नाम";
+
+/* Class = "UILabel"; text = "Enabling biometrics authentication can provide extra layer of protection."; ObjectID = "uzk-WU-TbY"; */
+"uzk-WU-TbY.text" = "बायोमेट्रिक्स प्रमाणीकरण सक्षम करने से सुरक्षा की अतिरिक्त परत प्रदान की जा सकती है.";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "wAY-MH-wSr"; */
+"wAY-MH-wSr.text" = "प्रोफ़ाइल";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "xDF-3v-n2W"; */
+"xDF-3v-n2W.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xDF-3v-n2W"; */
+"xDF-3v-n2W.normalTitle" = " ";
