@@ -12,8 +12,8 @@ class AwsUpload {
     static let shared = AwsUpload()
     var imageUrl: String = ""
     func uploadImage(imagaData image: UIImage, imageName imgName: String) {
-        let accessKey = "AKIAXREEJEXVN35MHXPV"
-        let secretKey = "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"
+        let accessKey = "Access Key"
+        let secretKey = "Secret key"
         let credentialsProvider = AWSStaticCredentialsProvider(accessKey: accessKey, secretKey: secretKey)
         let confguration = AWSServiceConfiguration(region: .APSouth1, credentialsProvider: credentialsProvider)
         AWSServiceManager.default().defaultServiceConfiguration = confguration
